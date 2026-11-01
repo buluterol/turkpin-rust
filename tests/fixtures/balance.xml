@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<APIResponse><params><HATA_NO>000</HATA_NO><HATA_ACIKLAMA>Islem Basarili</HATA_ACIKLAMA>
+<balanceInformation><balance>98689.0000</balance><credit>0.0000</credit><bonus>0.000</bonus><spending>1311.0000</spending></balanceInformation>
+<istemci>203.0.113.10</istemci></params></APIResponse>

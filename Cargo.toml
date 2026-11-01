@@ -1,0 +1,18 @@
+[package]
+name = "turkpin"
+version = "1.0.0"
+edition = "2021"
+description = "Async client for the Turkpin dealer (bayi) API: e-pin games, products, orders and balance."
+license = "MIT"
+repository = "https://github.com/buluterol/turkpin-rust"
+readme = "README.md"
+keywords = ["turkpin", "epin", "api", "sdk"]
+categories = ["api-bindings"]
+
+[dependencies]
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls"] }
+roxmltree = "0.20"
+
+[dev-dependencies]
+tokio = { version = "1", features = ["macros", "rt-multi-thread"] }
+wiremock = "0.6"

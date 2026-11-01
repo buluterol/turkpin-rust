@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<APIResponse><params><error>000</error><error_desc>Islem Basarili</error_desc>
+<oyunListesi><oyun><id>1</id><name>Game 1</name></oyun><oyun><id>2</id><name>Game 2</name></oyun></oyunListesi>
+<istemci>203.0.113.10</istemci></params></APIResponse>

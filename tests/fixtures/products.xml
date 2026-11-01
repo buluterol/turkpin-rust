@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<APIResponse><params><error>000</error><error_desc>Islem Basarili</error_desc><oyun>1</oyun>
+<epinUrunListesi>
+<urun><name>Product 1</name><id>1</id><stock>26278</stock><min_order>1</min_order><max_order></max_order><price>0.001</price><tax_type>0</tax_type><pre_order>false</pre_order></urun>
+<urun><name>Product Barem</name><id>4</id><stock>0</stock><min_order>1</min_order><max_order>5</max_order><min_barem>25</min_barem><max_barem>1250</max_barem><barem_step>0.01</barem_step><price>0.001</price><tax_type>0</tax_type><pre_order>true</pre_order></urun>
+</epinUrunListesi><istemci>203.0.113.10</istemci></params></APIResponse>

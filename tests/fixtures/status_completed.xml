@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<APIResponse><params><DURUM_KODU>000</DURUM_KODU><SIPARIS_NO>25031013105101</SIPARIS_NO><SIPARIS_DURUMU>2</SIPARIS_DURUMU>
+<KONTROL_TARIHI>10-03-2025 13:12:31</KONTROL_TARIHI><SIPARIS_DURUMU_ACIKLAMA>Siparişiniz Tamamlandı</SIPARIS_DURUMU_ACIKLAMA><SIPARIS_TUTARI>0.0010</SIPARIS_TUTARI>
+<epin_list><epin><code>S3XS-EEDY-APAE-62EM</code><desc>Test Ürün</desc><id>2879</id></epin></epin_list><istemci>203.0.113.10</istemci></params></APIResponse>
